@@ -1,4 +1,3 @@
 #!/bin/sh
 git config --global user.name "自分の名前（ローマ字）"
 git config --global user.email "学校のGmailアドレス@gm.ibaraki-ct.ac.jp"
-
